@@ -2,3 +2,4 @@ pyspark==4.2.0
 delta-spark==4.4.0
 huggingface-hub>=0.30.0
 numpy>=1.26.0
+python-dotenv
