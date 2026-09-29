@@ -1,0 +1,54 @@
+store_id,store_name,city,zone,operating_status,opened_date
+STR_100,Blinkit Dark Store - Connaught Place,Hyderabad,East,Actve,2022-01-01
+STR_101,Blinkit Dark Store - Bandra West,Mumbai,West,Closed,2022-01-30
+STR_102,Blinkit Dark Store - Connaught Place,Hyderabad,South,Closed,2022-03-01
+STR_103,Blinkit Dark Store - MG Road,Delhi NCR,South,INACTIVE,2022-03-31
+STR_104,Blinkit Dark Store - Indiranagar 100ft Rd,Delhi NCR,North,Active,2022-04-30
+STR_105,Blinkit Dark Store - Jayanagar 4th Block,Delhi NCR,North,Active,2022-05-29
+STR_106,Blinkit Dark Store - MG Road,Delhi NCR,East,Active,2022-06-28
+STR_107,Blinkit Dark Store - Whitefield Main Rd,Delhi NCR,West,Active,2022-07-28
+STR_108,Blinkit Dark Store - Cyber City,Mumbai,West,INACTIVE,2022-08-27
+STR_109,Blinkit Dark Store - Whitefield Main Rd,Delhi NCR,Central,Closed,2022-09-26
+STR_110,Blinkit Dark Store - MG Road,Mumbai,North,Active,2022-10-25
+STR_111,Blinkit Dark Store - Koramangala 8th Block,Delhi NCR,South,Active,2022-11-24
+STR_112,Blinkit Dark Store - Whitefield Main Rd,Bengaluru,South,Active,2022-12-24
+STR_113,Blinkit Dark Store - Gachibowli Main Rd,Delhi NCR,East,Active,2023-01-23
+STR_114,Blinkit Dark Store - Andheri East,Bengaluru,South,Active,2023-02-22
+STR_115,Blinkit Dark Store - Gachibowli Main Rd,Mumbai,West,Active,2023-03-23
+STR_116,Blinkit Dark Store - MG Road,Delhi NCR,West,INACTIVE,2023-04-22
+STR_117,Blinkit Dark Store - Connaught Place,Hyderabad,North,Active,2023-05-22
+STR_118,Blinkit Dark Store - Bandra West,Mumbai,East,Actve,2023-06-21
+STR_119,Blinkit Dark Store - MG Road,Delhi NCR,South,active,2023-07-21
+STR_120,Blinkit Dark Store - Bandra West,Mumbai,North,INACTIVE,2023-08-19
+STR_121,Blinkit Dark Store - Whitefield Main Rd,Hyderabad,Central,Active,2023-09-18
+STR_122,Blinkit Dark Store - Bandra West,Delhi NCR,Central,INACTIVE,2023-10-18
+STR_123,Blinkit Dark Store - MG Road,Hyderabad,South,active,2023-11-17
+STR_124,Blinkit Dark Store - Koramangala 8th Block,Delhi NCR,South,Active,2023-12-17
+STR_125,Blinkit Dark Store - Connaught Place,Bengaluru,South,Active,2024-01-15
+STR_126,Blinkit Dark Store - Gachibowli Main Rd,Mumbai,West,Actve,2024-02-14
+STR_127,Blinkit Dark Store - Bandra West,Hyderabad,South,Active,2024-03-15
+STR_128,Blinkit Dark Store - Bandra West,Mumbai,Central,Active,2024-04-14
+STR_129,Blinkit Dark Store - MG Road,Hyderabad,South,Active,2024-05-14
+STR_130,Blinkit Dark Store - Jayanagar 4th Block,Mumbai,East,active,2024-06-12
+STR_131,Blinkit Dark Store - Cyber City,Mumbai,Central,INACTIVE,2024-07-12
+STR_132,Blinkit Dark Store - HSR Layout Sector 1,Mumbai,East,Active,2024-08-11
+STR_133,Blinkit Dark Store - Cyber City,Bengaluru,Central,Active,2024-09-10
+STR_134,Blinkit Dark Store - Bandra West,Delhi NCR,North,Closed,2024-10-10
+STR_135,Blinkit Dark Store - Indiranagar 100ft Rd,Bengaluru,Central,active,2024-11-08
+STR_136,Blinkit Dark Store - Bandra West,Mumbai,Central,INACTIVE,2024-12-08
+STR_137,Blinkit Dark Store - Bandra West,Hyderabad,East,Active,2025-01-07
+STR_138,Blinkit Dark Store - Indiranagar 100ft Rd,Mumbai,East,Active,2025-02-06
+STR_139,Blinkit Dark Store - Andheri East,Delhi NCR,Central,Active,2025-03-08
+STR_140,Blinkit Dark Store - HSR Layout Sector 1,Bengaluru,Central,active,2025-04-06
+STR_141,Blinkit Dark Store - Andheri East,Delhi NCR,West,Active,2025-05-06
+STR_142,Blinkit Dark Store - Cyber City,Hyderabad,North,Active,2025-06-05
+STR_143,Blinkit Dark Store - Jayanagar 4th Block,Delhi NCR,North,Active,2025-07-05
+STR_144,Blinkit Dark Store - Andheri East,Bengaluru,South,Active,2025-08-04
+STR_145,Blinkit Dark Store - Andheri East,Hyderabad,Central,INACTIVE,2025-09-02
+STR_146,Blinkit Dark Store - HSR Layout Sector 1,Delhi NCR,Central,Active,2025-10-02
+STR_147,Blinkit Dark Store - Cyber City,Bengaluru,Central,active,2025-11-01
+STR_148,Blinkit Dark Store - Koramangala 8th Block,Bengaluru,Central,Actve,2025-12-01
+STR_149,Blinkit Dark Store - Cyber City,Mumbai,North,Active,2025-12-31
+STR_148,Blinkit Dark Store - Koramangala 8th Block,Bengaluru,Central,Actve,2025-12-01
+STR_112,Blinkit Dark Store - Whitefield Main Rd,Bengaluru,South,Active,2022-12-24
+STR_136,Blinkit Dark Store - Bandra West,Mumbai,Central,INACTIVE,2024-12-08
